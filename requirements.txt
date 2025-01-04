@@ -1,6 +1,5 @@
 streamlit
 tensorflow
 numpy
-opencv-python==4.10.0.84
+opencv-contrib-python==4.8.0.76
 pillow
-opencv-contrib-python
